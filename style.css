@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+    background-image: url(1.jpg);
+    background-attachment: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header{
+    padding: 10px 5%;
+    background-color: greenyellow;
+}
+
+header>*{
+    display: block;
+    display: inline-block;
+    width: 450px;
+}
+
+.lucky{
+    width: 10%;
+}
+
+nav{
+    text-decoration: none;
+    color: black;
+    margin: 0 10px;
+}
+
+.how{
+    padding: 20% 5%;
+    color: green;
+    font-size: 40px;
+          
+}
+
+.how2{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+
+
+.dop{
+    font-size: 30px;
+    text-align: center;
+}
+
+
+
+.web{
+    font-size: 30px;
+    color: black;
+}
+
+.rar{
+    font-size: 30px;
+    color: black;
+}
+
+.hop{
+    font-size: 30px;
+    color: black;
+
+}
+
+.http{
+    font-size: 30px;
+    color:black;
+    background-attachment: fixed;
+
+
+}
+
+footer{
+    background-color: black;
+    padding: 10px 0;
+    text-align:center;
+    color: red;
+}
+
+a{
+    display: inline-block;
+    color: white;
+    background-color: blue;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+.i3{
+    display: flex;
+    justify-content: center;
+    margin: 300px;
+}
+
+
+.i4{
+    display: flex;
+    justify-content: center;
+    margin: 300px;
+}
+
+figcaption{
+    color: white;
+    background-color: blue;
+}
+
+
+
